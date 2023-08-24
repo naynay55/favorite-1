@@ -12,6 +12,6 @@ I love photography because:
 
 ## Here are some of my favorite photos I've captured so far -
 
-![flower]()
-![beach]()
-![waterfall]()
+![flower](https://github.com/hollyhha/favorite/assets/142946140/02b65c98-d3f8-40f9-8132-2a79dcaef8af)
+![beach](https://github.com/hollyhha/favorite/assets/142946140/1d835c3a-f110-401d-9d9b-e120e9df72e8)
+![waterfall](https://github.com/hollyhha/favorite/assets/142946140/89502365-46d4-46c8-91c5-1f687ba5bcc7)
