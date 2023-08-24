@@ -2,7 +2,7 @@
 
 ## Photography
 
-During the pandemic, I picked up a new hobby - *photography.* I was instantly obsessed with capturing all of the beautiful scenery Washington had to offer.
+During the pandemic, I picked up a new hobby - *photography*. I was instantly obsessed with capturing all of the beautiful scenery Washington had to offer.
 
 I love photography because:
 
