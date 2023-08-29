@@ -10,6 +10,8 @@ I love photography because:
 2. **Mindfulness:** Photography encourages me to be present in the moment. When I'm focused on capturing an image, I'm fully engaged with the subject at the moment, promoting mindfulness and reducing stress.
 3. **Exploration and Adventure:** Photography motivates me to explore new places and seek out interesting subjects. It can lead to exciting adventures as I look for picturesque locations and hidden gems.
 
+"The whole point of taking pictures is so that you don't have to explain things in words." - Elliott Erwitt
+
 ## Here are some of my favorite photos I've captured so far -
 
 ![flower](https://github.com/hollyhha/favorite/assets/142946140/02b65c98-d3f8-40f9-8132-2a79dcaef8af)
